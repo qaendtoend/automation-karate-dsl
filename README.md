@@ -1,4 +1,4 @@
-# Automatización de APIs con Karate DSL
+# Automatización de pruebas de APIs con Karate DSL
 
 [![karate DSL](https://img.shields.io/badge/karate%20DSL-v1.0.1-brightgreen)](https://github.com/intuit/karate/tree/v1.0.1)
 [![Maven](https://img.shields.io/badge/maven-v3.6.3-blue)](https://maven.apache.org/download.cgi#downloading-apache-maven-3-6-3)
